@@ -58,4 +58,4 @@ The project highlights how data can guide:
 ---
 ## 🔗 Datasets are from CodeBasics : https://codebasics.io/challenges/codebasics-resume-project-challenge/20
 ## 🔗 LinkedIn Post
-[Paste your LinkedIn link here]
+(https://www.linkedin.com/posts/kaushik-nv-069417138_dataanalytics-exceldashboard-businessanalytics-share-7451860673611083776-uI__?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGFcJEByuTN78yq7xYluAFztP9TaUR0Clw)
